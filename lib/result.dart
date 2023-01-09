@@ -62,7 +62,7 @@ class Result extends StatelessWidget {
                         offset: Offset(5, 5),
                         blurRadius: 20)
                   ],
-                  fontSize: 15),
+                  fontSize: 25),
             ),
           ),
         ],
